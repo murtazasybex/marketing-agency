@@ -10,10 +10,9 @@ const CTATwo = () => {
             <img src={ctaimgtwo} className="w-full lg:mt-[-7rem]" alt="" />
           </div>
           <div className="space-y-3 flex flex-col items-start justify-start w-full max-w-[500px] mx-auto text-start md:pb-6 pb-12 px-2">
-            <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat">
+            <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat md:pt-0 pt-5">
               Bags, Bottels and catalogues
             </h1>
-
             <p className="text-[15px] text-white font-normal montserrat pb-2">
               From the classic stapled option to sophisticated sewn binding,
               Pixartprinting has a vast range of binding options to suit all

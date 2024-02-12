@@ -21,6 +21,7 @@ import {
   Testimonials,
   Value,
 } from "./components";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function App() {
   const router = createBrowserRouter(
@@ -36,6 +37,7 @@ function App() {
   return (
     <div className="App">
       <RouterProvider router={router} />
+      <SpeedInsights />
     </div>
   );
 }

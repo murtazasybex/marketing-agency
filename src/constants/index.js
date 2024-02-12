@@ -92,7 +92,7 @@ export const navLinks = [
   },
 ];
 
-export const carouselItems = [
+export const categoryItems = [
   { image: bottle, label: "Bottle" },
   { image: cards, label: "Cards" },
   { image: frame, label: "Frame" },
@@ -117,7 +117,29 @@ export const testimonialData = [
   {
     name: "ANDRUE",
     date: "January 2, 2024",
+    image: testimonialimgtwo,
+    content:
+      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+  },
+  {
+    name: "ANDRUE",
+    date: "January 2, 2024",
     image: testimonialimgone,
+    content:
+      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+  },
+
+  {
+    name: "ANDRUE",
+    date: "January 2, 2024",
+    image: testimonialimgthree,
+    content:
+      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+  },
+  {
+    name: "ANDRUE",
+    date: "January 2, 2024",
+    image: testimonialimgthree,
     content:
       "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
   },
@@ -128,10 +150,11 @@ export const testimonialData = [
     content:
       "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
   },
+
   {
     name: "ANDRUE",
     date: "January 2, 2024",
-    image: testimonialimgthree,
+    image: testimonialimgone,
     content:
       "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
   },
@@ -194,11 +217,6 @@ export const categories = [
 ];
 
 export const bannerData = [
-  // {
-  //   title: "PRINTING DIGITAL SERVICE AGENCY",
-  //   subtitle: "Create an account and use code NEW25 at checkout.",
-  //   buttonText: "Create an account",
-  // },
   {
     title: "PRINTING DIGITAL SERVICE AGENCY",
     subtitle: "Create an account and use code NEW25 at checkout.",
@@ -251,4 +269,22 @@ export const footerContent = [
   "Legal Notice",
   "A CIMPRESS company © 2001-2024. All rights reserved.",
   "Unless stated otherwise, prices are exclusive of delivery and product options.",
+];
+
+export const slides = [
+  {
+    id: 1,
+    title: "PRINTING DIGITAL SERVICE AGENCY",
+    description: "Create an account and use code NEW25 at checkout.",
+  },
+  {
+    id: 2,
+    title: "PRINTING DIGITAL SERVICE AGENCY",
+    description: "Create an account and use code NEW25 at checkout.",
+  },
+  {
+    id: 3,
+    title: "PRINTING DIGITAL SERVICE AGENCY",
+    description: "Create an account and use code NEW25 at checkout.",
+  },
 ];

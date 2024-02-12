@@ -5,7 +5,7 @@ const Value = () => {
   return (
     <>
       <section className="w-full container mx-auto relative px-5">
-        <div className="flex mx-auto items-center justify-around px-2 md:gap-2 gap-5 md:flex-row flex-col my-8">
+        <div className="flex mx-auto items-center justify-evenly px-2 md:gap-2 gap-5 md:flex-row flex-col my-8">
           {values.map((value, index) => (
             <div
               key={index}

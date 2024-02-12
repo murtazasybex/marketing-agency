@@ -137,7 +137,7 @@ const Navbar = () => {
                     <img src={help} alt="" />
                     <a
                       href="#"
-                      className="text-[14px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
+                      className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
                     >
                       Help
                     </a>
@@ -146,7 +146,7 @@ const Navbar = () => {
                     <img src={myprojects} alt="" />
                     <a
                       href="#"
-                      className="text-[14px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
+                      className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
                     >
                       My Projects
                     </a>
@@ -155,7 +155,7 @@ const Navbar = () => {
                     <img src={signin} alt="" />
                     <a
                       href="#"
-                      className="text-[14px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
+                      className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
                     >
                       Signin
                     </a>
@@ -164,7 +164,7 @@ const Navbar = () => {
                     <img src={cart} alt="" />
                     <a
                       href="#"
-                      className="text-[14px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
+                      className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
                     >
                       Cart
                     </a>
