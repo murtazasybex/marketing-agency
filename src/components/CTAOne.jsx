@@ -4,7 +4,7 @@ import { ctaimgone } from "../assets";
 const CTAOne = () => {
   return (
     <>
-      <section className="bg-[#1A7E91] w-full mt-32">
+      <section className="bg-[#1A7E91] w-full lg:mt-32">
         <div className="flex justify-evenly md:space-x-8 flex-wrap lg:flex-nowrap md:py-0 border items-center px-2">
           <div className="space-y-3 my-6 flex flex-col items-start justify-center w-full max-w-[500px] text-start md:py-0 py-6 px-2">
             <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat">

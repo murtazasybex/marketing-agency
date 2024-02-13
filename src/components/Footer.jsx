@@ -20,7 +20,7 @@ const Footer = () => {
               Every time. Any reason. Or we'll make it right.
             </p>
           </div>
-          <div className="flex justify-start md:justify-around w-full md:max-w-[700px] space-x-6">
+          <div className="flex justify-start lg:justify-around w-full md:max-w-[700px] space-x-6">
             <div className="text-start space-y-3">
               <h1 className="font-semibold text-[14px] text-white">
                 Let Us Help
