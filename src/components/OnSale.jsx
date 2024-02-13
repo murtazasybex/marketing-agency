@@ -38,7 +38,7 @@ const OnSale = () => {
               <img
                 src={item.image}
                 className="w-full max-w-[250px] hover-transition"
-                alt=""
+                alt="on sale item"
               />
               <p className="pl-2 pt-3 text-[16px] inter">{item.text}</p>
             </div>

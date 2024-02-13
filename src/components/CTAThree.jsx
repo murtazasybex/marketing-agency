@@ -10,7 +10,7 @@ const CTAThree = () => {
             <img
               src={ctaimg}
               className="w-full max-w-[700px] hover-transition"
-              alt=""
+              alt="call to action"
             />
           </div>
           <div className="space-y-2 flex flex-col items-center justify-center mb-6 w-full max-w-[600px] mx-auto text-center md:pb-0 pb-12">

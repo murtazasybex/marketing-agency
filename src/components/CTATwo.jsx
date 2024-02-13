@@ -7,7 +7,11 @@ const CTATwo = () => {
       <section className="bg-[#1A7E91] w-full py-8 mt-20">
         <div className="flex justify-around flex-wrap lg:flex-nowrap md:py-0 py-3 items-center px-2">
           <div className="flex mx-auto">
-            <img src={ctaimgtwo} className="w-full lg:mt-[-7rem]" alt="" />
+            <img
+              src={ctaimgtwo}
+              className="w-full lg:mt-[-7rem]"
+              alt="call to action"
+            />
           </div>
           <div className="space-y-3 flex flex-col items-start justify-start w-full max-w-[500px] mx-auto text-start md:pb-6 pb-12 px-2">
             <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat md:pt-0 pt-5">

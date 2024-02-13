@@ -64,7 +64,7 @@ const Categories = () => {
                   <img
                     src={item.image}
                     className="hover-transition max-w-full max-h-full"
-                    alt=""
+                    alt="product image"
                   />
                 </div>
                 <p className="text-center pt-3 text-[14px]">{item.label}</p>

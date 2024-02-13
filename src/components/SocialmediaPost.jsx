@@ -44,7 +44,7 @@ const SocialmediaPost = () => {
               <img
                 src={post.image}
                 className="w-full max-w-[240px] hover-transition"
-                alt=""
+                alt="social post"
               />
             </div>
           ))}

@@ -52,13 +52,13 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-          <div className="flex flex-wrap gap-4 pt-12 lg:pt-40">
+          <div className="flex flex-wrap gap-4 pt-12 xl:pt-40">
             {socialMediaIcons.map((icon, index) => (
               <img
                 key={index}
                 src={icon.image}
                 className="hover:invert transition-colors hover-transition w-full max-w-[30px]"
-                alt=""
+                alt="social links"
               />
             ))}
           </div>
@@ -85,8 +85,8 @@ const Footer = () => {
         </div>
 
         <div className="flex justify-center space-x-2 md:justify-end items-center mt-8 md:mt-0">
-          <img src={country} className="" width={35} height={35} alt="" />
-          <img src={arrow} alt="" />
+          <img src={country} width={35} height={35} alt="country" />
+          <img src={arrow} alt="dropdown arrow" />
         </div>
       </div>
     </footer>

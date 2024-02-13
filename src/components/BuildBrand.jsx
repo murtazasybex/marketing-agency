@@ -40,7 +40,7 @@ const BuildBrand = () => {
               <img
                 src={item.image}
                 className="w-full max-w-[230px] hover-transition px-2"
-                alt=""
+                alt="product image"
               />
               <p className="pl-2 pt-3 text-[17px] inter">{item.text}</p>
             </div>

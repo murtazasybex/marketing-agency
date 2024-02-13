@@ -11,7 +11,11 @@ const Value = () => {
               key={index}
               className="hover-transition flex items-center justify-center w-full max-w-[240px]  hover:border-[#1A7E91] transition-colors border rounded-2xl space-x-5 px-6 py-3"
             >
-              <img src={value.image} className="w-full max-w-[40px]" alt="" />
+              <img
+                src={value.image}
+                className="w-full max-w-[40px]"
+                alt="values"
+              />
               <p className="text-[13px] inter">{value.text}</p>
             </div>
           ))}

@@ -54,7 +54,7 @@ const BestSeller = () => {
               <img
                 src={item.image}
                 className="w-full max-w-[230px] hover-transition"
-                alt=""
+                alt="best sellers"
               />
               <p className="pl-6 pt-3 text-[16px] inter">{item.text}</p>
             </div>

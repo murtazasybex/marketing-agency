@@ -22,7 +22,11 @@ const CTAOne = () => {
             </button>
           </div>
           <div className="">
-            <img src={ctaimgone} className="w-full lg:mt-[-7rem]" alt="" />
+            <img
+              src={ctaimgone}
+              className="w-full lg:mt-[-7rem]"
+              alt="call to action"
+            />
           </div>
         </div>
       </section>

@@ -43,7 +43,7 @@ const Testimonials = () => {
                   <img
                     src={testimonial.image}
                     className="w-full max-w-[60px]"
-                    alt=""
+                    alt="profile image"
                   />
                   <div>
                     <h1 className="font-semibold text-[20px] montserrat">
@@ -54,7 +54,11 @@ const Testimonials = () => {
                     </p>
                   </div>
                 </div>
-                <img src={fivestars} className="w-full max-w-[90px]" alt="" />
+                <img
+                  src={fivestars}
+                  className="w-full max-w-[90px]"
+                  alt="5 stars review"
+                />
                 <div className="testimonial-content">
                   <p className="text-[15px] font-medium open-sans">
                     {testimonial.content}
@@ -67,13 +71,13 @@ const Testimonials = () => {
             onClick={prev}
             className="absolute rounded-full shadow bg-white text-gray-800 hover:bg-[#1A7E91] top-1/2 mt-3 left-14 transform -translate-y-1/2"
           >
-            <ChevronLeft size={40} className="hover:invert" />
+            <ChevronLeft size={30} className="hover:invert" />
           </button>
           <button
             onClick={next}
             className="absolute top-1/2 mt-3 right-14 transform -translate-y-1/2 rounded-full shadow bg-white text-gray-800 hover:bg-[#1A7E91]"
           >
-            <ChevronRight size={40} className="hover:invert" />
+            <ChevronRight size={30} className="hover:invert" />
           </button>
         </div>
       </div>

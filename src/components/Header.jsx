@@ -26,7 +26,7 @@ const Navbar = () => {
             {/* <h1 className="text-xl font-bold">Agency</h1> */}
             <div className="search flex px-3 py-2 ml-20 border hover:border-[#1A7E91] transition-colors rounded-lg w-full md:max-w-[800px] max-w-[420px]">
               <button>
-                <img src={search} className="w-4 h-4" alt="" />
+                <img src={search} className="w-4 h-4" alt="search" />
               </button>
               <input
                 type="text"
@@ -37,7 +37,7 @@ const Navbar = () => {
             </div>
             <div className="flex justify-between items-center md:mt-0 mt-5 w-full max-w-[400px]">
               <div className="flex items-center space-x-3">
-                <img src={help} alt="" />
+                <img src={help} alt="help" />
                 <a
                   href="#"
                   className="text-[14px] hover:underline hover:text-[#FF1010] transition-colors font-normal inter"
@@ -46,7 +46,7 @@ const Navbar = () => {
                 </a>
               </div>
               <div className="flex items-center space-x-2">
-                <img src={myprojects} alt="" />
+                <img src={myprojects} alt="myprojects" />
                 <a
                   href="#"
                   className="text-[14px] hover:text-[#FF1010] transition-colors hover:underline font-normal inter"
@@ -55,7 +55,7 @@ const Navbar = () => {
                 </a>
               </div>
               <div className="flex items-center space-x-2">
-                <img src={signin} alt="" />
+                <img src={signin} alt="signin" />
                 <a
                   href="#"
                   className="text-[14px] hover:underline transition-colors hover:text-[#FF1010]  font-normal inter"
@@ -64,7 +64,7 @@ const Navbar = () => {
                 </a>
               </div>
               <div className="flex items-center space-x-2">
-                <img src={cart} alt="" />
+                <img src={cart} alt="cart" />
                 <a
                   href="#"
                   className="text-[14px] hover:underline transition-colors hover:text-[#FF1010]  font-normal inter"
@@ -112,7 +112,7 @@ const Navbar = () => {
               <ul className="list-none flex flex-col items-start flex-1">
                 <div className="search flex px-3 py-2 mb-3 border hover:border-[#1A7E91] transition-colors rounded-lg w-full">
                   <button>
-                    <img src={search} className="w-4 h-4" alt="" />
+                    <img src={search} className="w-4 h-4" alt="search" />
                   </button>
                   <input
                     type="text"
@@ -134,7 +134,7 @@ const Navbar = () => {
                 ))}
                 <div className="flex flex-row items-center pb-3 justify-center space-x-6 mt-5 w-full max-w-[400px]">
                   <div className="flex items-center space-x-3">
-                    <img src={help} alt="" />
+                    <img src={help} alt="help" />
                     <a
                       href="#"
                       className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
@@ -143,7 +143,7 @@ const Navbar = () => {
                     </a>
                   </div>
                   <div className="flex items-center space-x-2">
-                    <img src={myprojects} alt="" />
+                    <img src={myprojects} alt="my projects" />
                     <a
                       href="#"
                       className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
@@ -152,7 +152,7 @@ const Navbar = () => {
                     </a>
                   </div>
                   <div className="flex items-center space-x-2">
-                    <img src={signin} alt="" />
+                    <img src={signin} alt="Signin" />
                     <a
                       href="#"
                       className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"
@@ -161,7 +161,7 @@ const Navbar = () => {
                     </a>
                   </div>
                   <div className="flex items-center space-x-2">
-                    <img src={cart} alt="" />
+                    <img src={cart} alt="cart" />
                     <a
                       href="#"
                       className="text-[12px] hover:underline font-normal inter hover:text-[#FF1010] cursor-pointer transition-colors"

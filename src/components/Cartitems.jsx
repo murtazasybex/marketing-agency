@@ -27,7 +27,7 @@ const Cartitems = () => {
                     <div className="flex items-center space-x-3 py-2">
                       <img
                         src={image}
-                        alt=""
+                        alt="product image"
                         className="w-[100px] h-[100px] border rounded p-2"
                       />
                       <div>
