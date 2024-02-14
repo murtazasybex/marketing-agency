@@ -50,6 +50,9 @@ import speedreliability from "../assets/speedreliability.webp";
 import testimonialimgone from "../assets/testimonialimg-one.svg";
 import testimonialimgtwo from "../assets/testimonialimg-two.svg";
 import testimonialimgthree from "../assets/testimonialimg-three.svg";
+import testimonialimgfour from "../assets/testimonialimg-four.jpg";
+import testimonialimgfive from "../assets/testimonialimg-five.jpg";
+import testimonialimgsix from "../assets/testimonialimg-six.jpg";
 import tshirt from "../assets/tshirt.webp";
 import valueformoney from "../assets/valueformoney.webp";
 import weddingcard from "../assets/weddingcard.webp";
@@ -114,6 +117,9 @@ export {
   testimonialimgone,
   testimonialimgtwo,
   testimonialimgthree,
+  testimonialimgfour,
+  testimonialimgfive,
+  testimonialimgsix,
   tshirt,
   valueformoney,
   weddingcard,

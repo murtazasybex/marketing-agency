@@ -45,7 +45,7 @@ const BestSeller = () => {
   return (
     <section className="w-full container mx-auto relative">
       <h1 className="font-bold text-[24px] py-6 px-2 pl-6 montserrat">
-        Best Seller
+        Our Best Sellers
       </h1>
       <div className="relative overflow-hidden">
         <Slider {...settings} style={{ transform: `translateX(${scrollX}px)` }}>

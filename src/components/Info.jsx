@@ -8,40 +8,39 @@ const Info = () => {
           <div className="flex justify-around flex-wrap space-x-3 lg:flex-nowrap md:py-0 py-16 items-center px-2">
             <div className="text-start space-y-5 w-full max-w-[500px] px-2">
               <h1 className="font-bold leading-none md:text-[44px] text-[28px] text-black inter">
-                Here for small business since 1995.
+                Codex Prints Printing All Your Needs
               </h1>
               <p className="md:text-[17px] text-[14px] text-black pb-5 inter">
-                For more than 20 years, Our website has helped small business
-                owners, entrepreneurs and dreamers create custom designs and
-                professional marketing. Our online printing services are
-                intended to help you find custom products you need – business
-                cards, promotional marketing and more – to create a look you
-                love.
+                At Codex Prints, we have but one goal - to become a single
+                source printing solution for individuals and businesses all over
+                the world. We aim to offer the most reliable, affordable, and
+                on-time experience in the industry and will always go the extra
+                mile to ensure 100% customer satisfaction.
               </p>
             </div>
             <div className="text-start w-full max-w-[500px]">
               <h1 className="font-bold text-[18px] text-black inter">
-                Easy Design
+                Quick Turnaround
               </h1>
               <p className="text-[17px] text-black pb-5 inter">
-                Our online tools make the process as simple and clear as
-                possible, and we’re working to improve your experience all the
-                time.
+                When you work with our in-house pros, you don’t have to wait
+                around too much to get your vision turned into digital designs.
+                Once you approve, the printing begins immediately.
               </p>
               <h1 className="font-bold text-[18px] text-black inter">
-                Make It Match
+                One Design for All
               </h1>
               <p className="text-[17px] text-black pb-5 inter">
-                Our designs can be used across multiple printed products, which
-                makes it easier for you to create consistent, professional
-                marketing.
+                You bet our advanced machinery can easily print the same designs
+                in the same way on different material, fabric, and objects.
               </p>
               <h1 className="font-bold text-[18px] text-black inter">
-                Absolutely Guaranteed
+                Satisfaction Guaranteed
               </h1>
               <p className="text-[17px] text-black pb-5 inter">
-                We stand by everything we sell. So if you’re not satisfied,
-                we’ll make it right.
+                We can guarantee one thing for sure – you won’t ever regret
+                hiring our printing services. We haven’t failed a client yet,
+                and we aren’t about to start now.
                 <a
                   className="underline inter hover:text-[#1A7E91] hover:no-underline pl-1"
                   href="#"

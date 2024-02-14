@@ -8,14 +8,14 @@ const CTAOne = () => {
         <div className="flex justify-evenly md:space-x-8 flex-wrap lg:flex-nowrap md:py-0 border items-center px-2">
           <div className="space-y-3 my-6 flex flex-col items-start justify-center w-full max-w-[500px] text-start md:py-0 py-6 px-2">
             <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat">
-              Frames , books and catalogues
+              We Print on Everything!
             </h1>
 
             <p className="text-[15px] text-white font-normal pb-2 montserrat">
-              From the classic stapled option to sophisticated sewn binding,
-              Pixartprinting has a vast range of binding options to suit all
-              types of project. Print books, magazines and catalogues and choose
-              the product that best meets your commercial or publishing needs.
+              Copies, books, magazines, and anything else you can name, we can
+              print on all of them! Whatever your requirements are, know that
+              Codex Prints has all the printing solutions for your individual
+              and business needs.
             </p>
             <button className="hover-transition py-3 px-10 bg-white text-[14px] hover:bg-white/80 transition-colors inter text-[#5C5C5C] rounded-full font-semibold mt-5">
               Create an account

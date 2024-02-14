@@ -54,7 +54,7 @@ const Categories = () => {
     <section className="w-full container mx-auto relative z-0 px-2">
       <div className="pb-6 relative">
         <h1 className="font-bold text-[24px] py-6 px-2 pl-6 montserrat">
-          Explore all categories
+          Our Printing Categories
         </h1>
         <div className="mx-auto container">
           <Slider ref={sliderRef} {...settings}>

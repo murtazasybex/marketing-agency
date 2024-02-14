@@ -115,48 +115,47 @@ export const responsiveLayout = [
 
 export const testimonialData = [
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Thomas Reed",
+    date: "Marketing Manager",
     image: testimonialimgtwo,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "The online digital printing services from this company have been a game-changer for our marketing campaigns. High-quality prints, vibrant colors, and timely delivery have consistently met our diverse needs. Their customer service is top-notch, making every project seamless.",
   },
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Sophia Liu",
+    date: "Small Business Owner",
     image: testimonialimgone,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "As a small business owner, finding a reliable printing solution was crucial. This company exceeded my expectations with its exceptional quality, affordability, and versatility in handling different printing tasks. Their platform is user-friendly, making it easy to place orders and customize products.",
   },
 
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Michael Johnson",
+    date: "Event Coordinator",
     image: testimonialimgthree,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "I've used their digital printing services for various events, from posters to brochures, and the results are always outstanding. The clarity and color accuracy bring our event materials to life, enhancing our audience's experience. Their efficiency and professionalism make them my go-to for all printing needs.",
   },
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Emily Carter",
+    date: "Freelance Designer",
     image: testimonialimgthree,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "Collaborating with this digital printing company has been fantastic. They understand the importance of precision in design work and consistently deliver prints that reflect my detailed work. Their ability to cater to creative professionals with high standards is impressive.",
   },
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Daniel Smith",
+    date: "Non-Profit Organization Director",
     image: testimonialimgtwo,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "For our non-profit, cost-effective and high-quality printing solutions are essential. This company provides both, along with excellent customer support. Their dedication to producing environmentally friendly prints also aligns with our organization's values. Highly recommended for any business looking for responsible printing options.",
   },
-
   {
-    name: "ANDRUE",
-    date: "January 2, 2024",
+    name: "Sophia Liu",
+    date: "Small Business Owner",
     image: testimonialimgone,
     content:
-      "I recently used this website for my printing needs, and I'm thoroughly impressed. The user-friendly interface made design customization a breeze. The print quality was outstanding, with vibrant colors and crisp details. What stood out was their swift turnaround – my prints arrived well within the promised time frame. The efficient service, coupled with responsive customer support, added to the overall positive experience. I highly recommend",
+      "As a small business owner, finding a reliable printing solution was crucial. This company exceeded my expectations with its exceptional quality, affordability, and versatility in handling different printing tasks. Their platform is user-friendly, making it easy to place orders and customize products.",
   },
 ];
 
@@ -235,10 +234,10 @@ export const bannerData = [
 ];
 
 export const values = [
-  { image: quality, text: "Committed to quality" },
-  { image: valueformoney, text: "Value for money" },
-  { image: speedreliability, text: "Speed & Reliability" },
-  { image: advisor, text: "Professional adviser" },
+  { image: quality, text: "Premium Quality" },
+  { image: valueformoney, text: "Bang for Your Buck" },
+  { image: speedreliability, text: "Always On-Time" },
+  { image: advisor, text: "Accurate Printing" },
 ];
 
 export const letUsHelpItems = [
@@ -274,17 +273,19 @@ export const footerContent = [
 export const slides = [
   {
     id: 1,
-    title: "PRINTING DIGITAL SERVICE AGENCY",
-    description: "Create an account and use code NEW25 at checkout.",
+    title: "Printing All Your Digital Needs",
+    description: "If you can design it, we can print it! ",
   },
   {
     id: 2,
-    title: "PRINTING DIGITAL SERVICE AGENCY",
-    description: "Create an account and use code NEW25 at checkout.",
+    title: "Whatever Your Brand Needs, We Deliver",
+    description:
+      "Our printing service is exactly what your brand needs to give off a premium vibe!",
   },
   {
     id: 3,
-    title: "PRINTING DIGITAL SERVICE AGENCY",
-    description: "Create an account and use code NEW25 at checkout.",
+    title: "Professional, Affordable, & Reliable ",
+    description:
+      "Count on us to always provide affordable printing services that arrive on time!",
   },
 ];

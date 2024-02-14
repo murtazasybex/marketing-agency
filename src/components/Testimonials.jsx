@@ -32,13 +32,13 @@ const Testimonials = () => {
   return (
     <section className="w-full bg-[#EAF3F5] mx-auto relative py-5">
       <div className="py-20 w-full max-w-[1100px] mx-auto">
-        <div className="flex gap-5 justify-center testimonials-container relative">
+        <div className="flex gap-5 justify-center testimonials-container my-8 relative">
           {testimonialData.slice(startIdx, endIdx).map((testimonial, index) => (
             <div
               key={startIdx + index}
               className="testimonial-item flex justify-center items-center"
             >
-              <div className="hover-transition w-full max-w-[300px] space-y-6 my-8 h-full max-h-[400px] bg-[#F2F2F2] rounded-2xl border hover:shadow-xl hover:border-black/20 p-5">
+              <div className="hover-transition w-full max-w-[300px] space-y-6 h-[400px] overflow-hidden bg-[#F2F2F2] rounded-2xl border hover:shadow-xl hover:border-black/20 p-5">
                 <div className="flex space-x-5">
                   <img
                     src={testimonial.image}

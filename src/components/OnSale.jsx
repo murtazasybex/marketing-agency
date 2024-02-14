@@ -30,7 +30,9 @@ const OnSale = () => {
 
   return (
     <section className="w-full container mx-auto relative">
-      <h1 className="font-bold text-[24px] py-3 mt-6 pl-3 px-2">On Sale</h1>
+      <h1 className="font-bold text-[24px] py-3 mt-6 pl-3 px-2">
+        What's On Sale?
+      </h1>
       <Slider {...settings} className="flex justify-around mx-auto">
         {onSaleItems.map((item, index) => (
           <div key={index}>

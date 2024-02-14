@@ -31,11 +31,11 @@ const SocialmediaPost = () => {
   return (
     <section className="w-full container mx-auto relative py-8">
       <h1 className="font-bold text-[24px] mt-7 pl-3 px-2 montserrat">
-        Made By You
+        You Design It, We Print It!
       </h1>
       <p className="text-[17px] pb-6 pt-2 pl-3 px-2 inter">
-        We love to see your custom creations. Post a photo on social media and
-        add us for a chance to be featured here.
+        Create your own unique design and watch how you convert your digital
+        ideas into reality.
       </p>
       <div className="relative overflow-hidden">
         <Slider {...settings}>

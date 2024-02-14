@@ -18,8 +18,8 @@ const Banner = () => {
     <div className="w-full container mx-auto relative px-2 z-0">
       <div className="home-banner bg-cover bg-left md:bg-center rounded-xl w-full bg-no-repeat my-6 relative">
         <div className="flex justify-between lg:flex-row flex-col md:py-6 lg:py-0 py-16 items-center">
-          <div className="space-y-5 pl-10">
-            <h1 className="font-bold montserrat uppercase text-[28px] md:text-[42px] text-white">
+          <div className="space-y-5 pl-10 w-full max-w-[620px]">
+            <h1 className="font-bold montserrat uppercase text-[28px] md:text-[36px] lg:text-[42px] text-white">
               {slides[curr].title}
             </h1>
             <p className="md:text-[18px] text-[17px] text-white inter">

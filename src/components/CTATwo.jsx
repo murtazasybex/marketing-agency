@@ -15,13 +15,12 @@ const CTATwo = () => {
           </div>
           <div className="space-y-3 flex flex-col items-start justify-start w-full max-w-[500px] mx-auto text-start md:pb-6 pb-12 px-2">
             <h1 className="font-bold md:text-[28px] text-[22px] text-white montserrat md:pt-0 pt-5">
-              Bags, Bottels and catalogues
+              Just Name Your Requirements!
             </h1>
             <p className="text-[15px] text-white font-normal montserrat pb-2">
-              From the classic stapled option to sophisticated sewn binding,
-              Pixartprinting has a vast range of binding options to suit all
-              types of project. Print books, magazines and catalogues and choose
-              the product that best meets your commercial or publishing needs.
+              Need your brand logo and name printed on plastic bottles or maybe
+              you need to print multiple brand catalogs to show off your
+              portfolio? Whatever the case may be, Codex Prints has you covered.
             </p>
             <button className="hover-transition py-3 px-10 bg-white text-[14px] hover:bg-white/80 transition-colors inter text-[#5C5C5C] rounded-full font-semibold mt-5">
               Create an account

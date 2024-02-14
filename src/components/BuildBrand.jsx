@@ -31,7 +31,7 @@ const BuildBrand = () => {
   return (
     <section className="w-full container mx-auto relative">
       <h1 className="font-bold text-[24px] py-6 mt-6 pl-3 px-2 montserrat">
-        Build Your Brand On Any Budget
+        Premium Printing on Your Budget
       </h1>
       <div className="relative overflow-hidden">
         <Slider {...settings} className="">

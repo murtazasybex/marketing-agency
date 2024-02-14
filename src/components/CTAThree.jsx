@@ -15,10 +15,11 @@ const CTAThree = () => {
           </div>
           <div className="space-y-2 flex flex-col items-center justify-center mb-6 w-full max-w-[600px] mx-auto text-center md:pb-0 pb-12">
             <h1 className="font-bold md:text-[30px] inter text-[22px] text-white">
-              It's good to be on the list.
+              Join us to win exciting prizes and deals!
             </h1>
             <p className="md:text-[20px] inter font-semibold text-[14px] text-white pb-5">
-              Get 15% off your order when you sign up for our emails
+              Get yourself a 15% discount just by signing up for our emails and
+              newsletters.
             </p>
             <input
               type="text"
