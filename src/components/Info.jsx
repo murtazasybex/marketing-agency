@@ -6,9 +6,9 @@ const Info = () => {
       <section className="w-full mx-auto relative">
         <div className="bg-[#F8F8F8] w-full md:py-24 py-18">
           <div className="flex justify-around flex-wrap space-x-3 lg:flex-nowrap md:py-0 py-16 items-center px-2">
-            <div className="text-start space-y-5 w-full max-w-[500px] px-2">
+            <div className="text-start space-y-5 w-full max-w-[520px] px-2">
               <h1 className="font-bold leading-none md:text-[44px] text-[28px] text-black inter">
-                Codex Prints Printing All Your Needs
+                Codex Prints <br /> Printing All Your Needs
               </h1>
               <p className="md:text-[17px] text-[14px] text-black pb-5 inter">
                 At Codex Prints, we have but one goal - to become a single
