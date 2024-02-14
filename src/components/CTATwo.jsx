@@ -4,7 +4,7 @@ import { ctaimgtwo } from "../assets";
 const CTATwo = () => {
   return (
     <>
-      <section className="bg-[#1A7E91] w-full py-8 mt-20">
+      <section className="bg-[#1A7E91] w-full py-5 mt-20">
         <div className="flex justify-around flex-wrap lg:flex-nowrap md:py-0 py-3 items-center px-2">
           <div className="flex mx-auto">
             <img
