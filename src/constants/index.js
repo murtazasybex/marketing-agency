@@ -150,13 +150,6 @@ export const testimonialData = [
     content:
       "For our non-profit, cost-effective and high-quality printing solutions are essential. This company provides both, along with excellent customer support. Their dedication to producing environmentally friendly prints also aligns with our organization's values. Highly recommended for any business looking for responsible printing options.",
   },
-  {
-    name: "Sophia Liu",
-    date: "Small Business Owner",
-    image: testimonialimgone,
-    content:
-      "As a small business owner, finding a reliable printing solution was crucial. This company exceeded my expectations with its exceptional quality, affordability, and versatility in handling different printing tasks. Their platform is user-friendly, making it easy to place orders and customize products.",
-  },
 ];
 
 export const socialMediaPosts = [

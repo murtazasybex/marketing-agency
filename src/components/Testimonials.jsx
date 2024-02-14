@@ -36,7 +36,7 @@ const Testimonials = () => {
           {testimonialData.slice(startIdx, endIdx).map((testimonial, index) => (
             <div
               key={startIdx + index}
-              className="testimonial-item flex justify-center items-center"
+              className="testimonial-item flex justify-start items-start"
             >
               <div className="hover-transition w-full max-w-[300px] space-y-6 h-[400px] overflow-hidden bg-[#F2F2F2] rounded-2xl border hover:shadow-xl hover:border-black/20 p-5">
                 <div className="flex space-x-5">
